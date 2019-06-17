@@ -1,0 +1,1 @@
+For general detection, download the COCO dataset weights from the Ultralytics Github.

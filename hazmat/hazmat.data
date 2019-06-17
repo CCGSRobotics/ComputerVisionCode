@@ -1,0 +1,6 @@
+classes=14
+train=../resources/example_single_class.txt
+valid=../resources/example_single_class.txt
+names=../resources/hazmat.names
+backup=backup/
+eval=coco

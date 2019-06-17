@@ -102,3 +102,21 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# node modules
+node_modules
+
+# images
+*.jpg
+*.png
+
+
+# weights
+*.weights
+*.pt
+*.onnx
+*.mlmodel
+darknet53.conv.74
+yolov3-tiny.conv.15
+
+!hazmat/weights/bestv1.pt

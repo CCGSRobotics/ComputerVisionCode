@@ -1,0 +1,3 @@
+py detectvideo(all).py --weights weights/best.pt
+
+https://drive.google.com/drive/folders/1uxgUBemJVw9wZsdpboYbzUN4bcRhsuAI
