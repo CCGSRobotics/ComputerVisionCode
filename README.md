@@ -1,4 +1,7 @@
 # ComputerVisionCode
+
+Update: This code is being retired. It most likely doesnt work either.
+
 Code used by the CCGSRobotics, for Robocup, for abilities such as hazmat detection and code scanning.
 
 Code found here is heavily based on the code provided by ultralytics. The code however has been modified.
